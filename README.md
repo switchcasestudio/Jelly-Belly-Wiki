@@ -30,11 +30,11 @@ The Jelly Belly Wiki Project is an integrated solution comprising a data collect
 
 This project is structured into three main components, each residing in its own submodule within this repository:
 
-1. **Jelly Belly Wiki API Data Collection**: [Repository](https://github.com/Object-ions/Jelly-Belly-Wiki-API-Data-Collection): this repository dedicated to scripts and supporting files for data collection, primarily using Python for web scraping from the official Jelly Belly website.
+1. **Jelly Belly Wiki API Data Collection**: [Repository](https://github.com/switchcasestudio/Jelly-Belly-Wiki-API-Data-Collection): this repository dedicated to scripts and supporting files for data collection, primarily using Python for web scraping from the official Jelly Belly website.
 
-2. **Jelly-Belly-Wiki-API**: [Repository](https://github.com/Object-ions/Jelly-Belly-Wiki-API): This repository contains the API implementation and the seeded data from the scraping process. The API is built using C# and EF Core .Net with MySql migrations.
+2. **Jelly-Belly-Wiki-API**: [Repository](https://github.com/switchcasestudio/Jelly-Belly-Wiki-API): This repository contains the API implementation and the seeded data from the scraping process. The API is built using C# and EF Core .Net with MySql migrations.
 
-3. **Jelly-Belly-Wiki-Client**: [Repository](https://github.com/Object-ions/Jelly_Belly_Wiki_Client): The client-side component focusing on user interface and interaction. It includes all frontend development, offering a visually appealing and demonstrates the API's application and functional user experience.
+3. **Jelly-Belly-Wiki-Client**: [Repository](https://github.com/switchcasestudio/Jelly_Belly_Wiki_Client): The client-side component focusing on user interface and interaction. It includes all frontend development, offering a visually appealing and demonstrates the API's application and functional user experience.
 
 **Note**
 Each submodule is equipped with its own README file, containing detailed instructions, documentation, and specific notes relevant to that part of the project.

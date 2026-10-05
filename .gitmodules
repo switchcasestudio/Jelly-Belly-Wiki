@@ -1,9 +1,9 @@
 [submodule "Jelly-Belly-Wiki-API-Data-Collection"]
 	path = Jelly-Belly-Wiki-API-Data-Collection
-	url = https://github.com/Object-ions/Jelly-Belly-Wiki-API-Data-Collection
+	url = https://github.com/switchcasestudio/Jelly-Belly-Wiki-API-Data-Collection
 [submodule "Jelly-Belly-Wiki-API"]
 	path = Jelly-Belly-Wiki-API
-	url = https://github.com/Object-ions/Jelly-Belly-Wiki-API
+	url = https://github.com/switchcasestudio/Jelly-Belly-Wiki-API
 [submodule "Jelly_Belly_Wiki_Client"]
 	path = Jelly_Belly_Wiki_Client
-	url = https://github.com/Object-ions/Jelly_Belly_Wiki_Client
+	url = https://github.com/switchcasestudio/Jelly_Belly_Wiki_Client
